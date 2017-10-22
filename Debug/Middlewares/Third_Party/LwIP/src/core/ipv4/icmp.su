@@ -1,0 +1,4 @@
+icmp.c:322:1:icmp_send_response	48	static
+icmp.c:76:1:icmp_input	48	static
+icmp.c:290:1:icmp_dest_unreach	8	static
+icmp.c:305:1:icmp_time_exceeded	8	static

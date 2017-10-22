@@ -1,0 +1,15 @@
+netif.c:547:1:netif_issue_reports	8	static
+netif.c:139:1:netif_init	0	static
+netif.c:388:1:netif_find	4	static
+netif.c:422:1:netif_set_ipaddr	16	static
+netif.c:465:1:netif_set_gw	0	static
+netif.c:487:1:netif_set_netmask	0	static
+netif.c:302:1:netif_set_addr	16	static
+netif.c:184:1:netif_add	24	static
+netif.c:510:1:netif_set_default	0	static
+netif.c:529:1:netif_set_up	8	static
+netif.c:586:1:netif_set_down	8	static
+netif.c:318:1:netif_remove	8	static
+netif.c:631:1:netif_set_link_up	8	static
+netif.c:659:1:netif_set_link_down	8	static
+netif.c:672:1:netif_set_link_callback	0	static

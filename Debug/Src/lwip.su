@@ -1,0 +1,2 @@
+lwip.c:89:6:MX_LWIP_Init	64	static
+lwip.c:154:6:LwIP_Periodic_Handle	16	static

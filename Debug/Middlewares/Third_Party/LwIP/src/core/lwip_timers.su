@@ -1,0 +1,8 @@
+lwip_timers.c:329:1:sys_timeout	24	static
+lwip_timers.c:103:1:tcp_timer_needed	8	static
+lwip_timers.c:81:1:tcpip_tcp_timer	8	static
+lwip_timers.c:275:6:sys_timeouts_init	8	static
+lwip_timers.c:138:1:arp_timer	8	static
+lwip_timers.c:122:1:ip_reass_timer	8	static
+lwip_timers.c:400:1:sys_untimeout	8	static
+lwip_timers.c:519:1:sys_timeouts_mbox_fetch	24	static
